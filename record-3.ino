@@ -1,3 +1,5 @@
+// Original Code by Noyel Seth, as published in https://circuitdigest.com/microcontroller-projects/simple-arduino-voice-recorder-for-spy-bug-voice-recording
+// Modified by Srijan, added functionality for starting and stopping record on press of a tactile button 
 /* PIN LAYOUT FOR NANO
 
 MicroSD Module    MAX9814           Pushbutton
